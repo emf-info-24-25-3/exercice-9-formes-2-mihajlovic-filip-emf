@@ -1,6 +1,6 @@
 package formes;
 
-public class Rectangle {
+public class Rectangle extends Forme{
 
     public Rectangle( double largeur, double hauteur ) {
         this.largeur = largeur;

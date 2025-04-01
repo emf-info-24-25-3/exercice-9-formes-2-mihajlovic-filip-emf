@@ -1,6 +1,6 @@
 package formes;
 
-public class Triangle {
+public class Triangle extends Forme{
 
     public Triangle( double base, double hauteur ) {
         this.base = base;
