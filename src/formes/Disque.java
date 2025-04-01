@@ -1,6 +1,6 @@
 package formes;
 
-public class Disque {
+public class Disque extends Forme {
 
     public Disque( double rayon ) {
         this.rayon = rayon;

@@ -1,6 +1,6 @@
 package formes;
 
-public class Carre {
+public class Carre extends Forme{
 
     public Carre( double cote ) {
         this.cote = cote;
